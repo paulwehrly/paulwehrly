@@ -6,6 +6,13 @@
 
 🛡️ I'm currently working on hands-on projects involving penetration testing, scripting, and system monitoring.
 
+## 🔓 Platforms & Labs
+
+🧠 I'm actively learning and building skills through:
+
+- [TryHackMe](https://tryhackme.com/p/YourUsername) – Working through rooms focused on penetration testing, Windows exploitation, and SOC analysis  
+- [Hack The Box](https://app.hackthebox.com/profile/YourUserID) – Practicing real-world hacking scenarios on retired machines
+
 ## 🧪 Featured Projects
 
 Coming soon: Labs, tools, and write-ups from my cybersecurity and IT projects.
